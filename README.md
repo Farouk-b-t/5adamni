@@ -11,4 +11,3 @@
 ![email](https://github.com/user-attachments/assets/ed3a5adc-26c1-4a51-a714-a13ebd588e7a)
 ![sms](https://github.com/user-attachments/assets/eb9397f7-bfb7-498b-8c20-7046ada11204)
 ![admin panel](https://github.com/user-attachments/assets/708fae18-3a90-4568-921d-7cdb639c9b49)
-![admin panel](https://github.com/user-attachments/assets/d915bea9-2698-4380-81a5-bb17c83c49f6)
