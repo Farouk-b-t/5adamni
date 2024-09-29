@@ -42,8 +42,6 @@ Users can register or log in with their Google accounts, and reset passwords via
 
 ![login](https://github.com/user-attachments/assets/715229b1-e446-42af-9d49-9713466b7003)
 
-![signin](https://github.com/user-attachments/assets/d38185d3-a991-47a8-a5d8-94295317b36d)
-
 # Administrative Features
 - Front Office and Back Office
 The platform includes both user-facing (front office) and administrative (back office) functionalities.
