@@ -57,8 +57,6 @@ The platform integrates email functionality using SMTP to send automatic notific
 # Google Login and Password Reset
 Users can log in via Google OAuth, and reset passwords using SMS or email, ensuring accessibility and security.
 
-![forgot pass](https://github.com/user-attachments/assets/ea0d5308-2f21-48a1-a322-d81ac64ac711)
-
 ![reset_pwd_options](https://github.com/user-attachments/assets/b492745c-abf5-4690-868c-2cb60d8e35f7)
 
 ![email](https://github.com/user-attachments/assets/ed3a5adc-26c1-4a51-a714-a13ebd588e7a)
