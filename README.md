@@ -43,15 +43,6 @@ Users can register or log in with their Google accounts, and reset passwords via
 
 ![login](https://github.com/user-attachments/assets/715229b1-e446-42af-9d49-9713466b7003)
 
-# Administrative Features
-- Front Office and Back Office
-The platform includes both user-facing (front office) and administrative (back office) functionalities.
-
-- Admin Panel
-Admins have access to powerful management tools, including user account moderation, reclamation handling, the ability to ban users, and the option to remove unethical posts.
-
-![admin panel](https://github.com/user-attachments/assets/708fae18-3a90-4568-921d-7cdb639c9b49)
-
 # Email Notification Integration
 The platform integrates email functionality using SMTP to send automatic notifications and updates to job seekers, keeping them informed about application status, interviews, and other platform activities.
 
@@ -63,6 +54,15 @@ Users can log in via Google OAuth, and reset passwords using SMS or email, ensur
 ![email](https://github.com/user-attachments/assets/ed3a5adc-26c1-4a51-a714-a13ebd588e7a)
 
 ![sms](https://github.com/user-attachments/assets/eb9397f7-bfb7-498b-8c20-7046ada11204)
+
+# Administrative Features
+- Front Office and Back Office
+The platform includes both user-facing (front office) and administrative (back office) functionalities.
+
+- Admin Panel
+Admins have access to powerful management tools, including user account moderation, reclamation handling, the ability to ban users, and the option to remove unethical posts.
+
+![admin panel](https://github.com/user-attachments/assets/708fae18-3a90-4568-921d-7cdb639c9b49)
 
 5adamni is built to empower job seekers in Tunisia by providing them with the necessary tools and resources to connect with employers and succeed in the job market.
 
