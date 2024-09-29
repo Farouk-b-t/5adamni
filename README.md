@@ -16,7 +16,7 @@ A well-structured database design supports the efficient storage of user profile
 - Graphical User Interface (GUI)
 The platform’s interface is designed to be both visually appealing and intuitive, ensuring that users can easily navigate, manage profiles, search for job offers, and apply for positions.
 
-#Key Features
+# Key Features
 - Job Offer Listings
 Job seekers can browse job opportunities posted by companies, apply to those relevant to their portfolios, and filter offers based on preferences.
 
@@ -44,7 +44,7 @@ Users can register or log in with their Google accounts, and reset passwords via
 
 ![signin](https://github.com/user-attachments/assets/d38185d3-a991-47a8-a5d8-94295317b36d)
 
-#Administrative Features
+# Administrative Features
 - Front Office and Back Office
 The platform includes both user-facing (front office) and administrative (back office) functionalities.
 
@@ -53,10 +53,10 @@ Admins have access to powerful management tools, including user account moderati
 
 ![admin panel](https://github.com/user-attachments/assets/708fae18-3a90-4568-921d-7cdb639c9b49)
 
-#Email Notification Integration
+# Email Notification Integration
 The platform integrates email functionality using SMTP to send automatic notifications and updates to job seekers, keeping them informed about application status, interviews, and other platform activities.
 
-#Google Login and Password Reset
+# Google Login and Password Reset
 Users can log in via Google OAuth, and reset passwords using SMS or email, ensuring accessibility and security.
 
 ![forgot pass](https://github.com/user-attachments/assets/ea0d5308-2f21-48a1-a322-d81ac64ac711)
