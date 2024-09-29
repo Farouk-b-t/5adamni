@@ -1,5 +1,6 @@
 # 5adamni
-- Just an opportunity finder website . 
+- Just an opportunity finder website .
+
 This project is a web-based platform developed using PHP, JavaScript, HTML, and CSS, aimed at connecting job seekers with employment opportunities in Tunisia. It offers a user-friendly interface with comprehensive features to streamline the job search process, allowing users to browse, apply for, and manage job offers efficiently.
 
 ![poster](https://github.com/user-attachments/assets/1f61ffda-9af9-4dbe-8a78-cf6ebbc270f6)
