@@ -1,9 +1,8 @@
 
 This project is a web-based platform developed using PHP, JavaScript, HTML, and CSS, aimed at connecting job seekers with employment opportunities in Tunisia. It offers a user-friendly interface with comprehensive features to streamline the job search process, allowing users to browse, apply for, and manage job offers efficiently.
 
-![poster](https://github.com/user-attachments/assets/1f61ffda-9af9-4dbe-8a78-cf6ebbc270f6)
-
-![441967743_483111504067441_1476584220483677053_n](https://github.com/user-attachments/assets/07dd2b15-4a4a-493f-8567-a0d4664ab6ec)
+<img src="https://github.com/user-attachments/assets/1f61ffda-9af9-4dbe-8a78-cf6ebbc270f6" alt="Profile" width="600" /> 
+<img src="https://github.com/user-attachments/assets/07dd2b15-4a4a-493f-8567-a0d4664ab6ec" alt="Profile" width="600" /> 
 
 # Key Achievements
 - Web Development Using PHP, JavaScript, HTML, and CSS
